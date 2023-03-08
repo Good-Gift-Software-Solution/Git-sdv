@@ -688,3 +688,79 @@ ll
 sud0 su - Fiyin
 sudo su - Fiyin
 su - Fiyin 
+pwd
+clear
+ls /home
+sudo su - Chioma
+sudo su - Jola
+sudo su - Oba
+git status
+ll
+git init
+clear
+git status
+clear
+git stat
+ll /
+clear
+ll
+cd devOps
+ll
+tree
+sh useradd.sh
+cd
+sh useradd.sh
+cd useradd.sh
+cat useradd.sh
+cd
+clear
+git status
+git add .bash_history
+ll
+clear
+git status
+git add  .bash_logout
+ git add .bash_profile
+git add .bashrc
+git status
+git log
+git config --global user.name Fiyin Aliu
+git config --global user.email fiyinaliudmj@gmail.com
+git --global --list
+git config --global --list 
+git commit -m "first commit"
+git status
+git log
+git show 3b26265990d4
+git remote -v
+clear
+pwd
+git remote add sdv https://github.com/Good-Gift-Software-Solution/Git-sdv.git
+git push sdv master
+git status
+git add .
+git status
+git commit -m "sdv2"
+git remote add sdv2 https://github.com/Good-Gift-Software-Solution/Git-sdv.git
+git push sdv2 master
+git status
+git diff
+clear
+git remote add visa-rep https://github.com/Fiyinhub/Visa-repo.git
+git clone visa-rep master
+git push visa-rep master
+clear
+git status
+su - Fiyin
+git status
+su - fiyin
+su - Fiyin
+clear
+ll /
+cd etc
+cd etc/
+cd 
+git status
+git add .
+git clean
+git -f clean
