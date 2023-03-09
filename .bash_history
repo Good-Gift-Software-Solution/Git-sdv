@@ -772,3 +772,25 @@ git status
 git branch
 ll
 'C:\Users\Fiyinfoluwas Laptop\Downloads\da432072-bb90-11ed-9926-14eba94eaa15 (2).tar.gz'
+ls /
+ls /home
+ls
+cd devOps 
+ls
+tree
+cd
+cat devOps 
+cat useradd.sh
+clear
+git status
+git commit -a -m "history updated"
+git log
+git diff
+git branch
+git show 4ef17a62325
+git diff 
+git branch
+sudo su - Fiyin
+clear
+git @@ -0,0 +1,6 @@
+git mv @@ -0,0 +1,6 @@
