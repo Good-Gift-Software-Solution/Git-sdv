@@ -838,3 +838,17 @@ git log
 git diff
 clear
 su - Fiyin
+clear
+git branch
+git log
+git config --global --list
+git  diff master
+git merge master
+git log
+git status
+git commit -a -m "b/h2"
+git status
+git log
+git diff master
+git diff 
+git remote -v
