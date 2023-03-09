@@ -764,3 +764,11 @@ git status
 git add .
 git clean
 git -f clean
+ll /
+clear
+git status
+git commit -a -m "m2 b/h"
+git status
+git branch
+ll
+'C:\Users\Fiyinfoluwas Laptop\Downloads\da432072-bb90-11ed-9926-14eba94eaa15 (2).tar.gz'
