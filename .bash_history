@@ -794,3 +794,7 @@ sudo su - Fiyin
 clear
 git @@ -0,0 +1,6 @@
 git mv @@ -0,0 +1,6 @@
+clear
+git status
+git remote -v
+su - Fiyin
