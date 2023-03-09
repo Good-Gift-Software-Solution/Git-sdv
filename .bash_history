@@ -852,3 +852,45 @@ git log
 git diff master
 git diff 
 git remote -v
+git log
+clear
+git remote -v
+git log 
+git push sdv master
+git log
+git diff master
+clear
+git remote -v
+git log
+git branch
+git diff
+git merge 
+git merge master
+git diff
+git status
+git commit -a -m "b/h3"
+git status
+git log
+git diff master
+git diff
+git remote -v
+git remote add b/h3 https://github.com/Good-Gift-Software-Solution/demo-repository.git
+git push b/h3 master
+clear
+git status
+git log
+git diff
+git diff master
+clear
+git remote -v
+git fetch sdv2 master
+git status
+git log
+sudo su - fiyin
+sudo su - Fiyin
+clear
+ll /home
+sudo su - Oba 
+git status
+git commit -a -m "b/h4"
+git remote
