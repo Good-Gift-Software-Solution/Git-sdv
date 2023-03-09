@@ -812,3 +812,29 @@ git remote -v
 README.md
 git README.md
 git status
+clear
+ls /home
+cd git/
+cd git
+cd /git/
+cd / git
+cd / .git
+cd git/
+git status
+git commit -a -m "b/h2"
+git branch
+git log
+git remote -v
+clear
+git log
+git diff
+git branch 
+git remote -v
+clear
+git remote -v
+git fetch visa-rep master
+git status
+git log 
+git diff
+clear
+su - Fiyin
