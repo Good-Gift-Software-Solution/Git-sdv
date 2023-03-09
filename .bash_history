@@ -798,3 +798,17 @@ clear
 git status
 git remote -v
 su - Fiyin
+git show 2c47556
+clear
+git remote -v
+sudo su - Fiyin
+git status
+git diff .gitconfig
+git status
+git commit -a -m ".gitconfig"
+clear
+git log
+git remote -v
+README.md
+git README.md
+git status
