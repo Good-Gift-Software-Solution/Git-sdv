@@ -927,3 +927,26 @@ clear
 git remote -v
 git status
 git log
+ls 
+ll
+git status
+commit -a -m history 3""
+git commit -a -m "history" 
+git log
+git branch 
+git status
+git remote -v
+clear
+git diff
+git log
+git show 67a389a35
+git remote -v
+git remote add sdv3  https://github.com/Good-Gift-Software-Solution/Git-sdv.git 
+git status
+git status
+sudo su - Fiyin 
+git status
+clear
+git log
+clear
+git remote -v
