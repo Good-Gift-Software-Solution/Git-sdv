@@ -950,3 +950,12 @@ clear
 git log
 clear
 git remote -v
+sudo su - Fiyin
+clear
+sudo su - Oba
+clear
+git status
+git commit -a -m "history M"
+git remote -v
+git status
+sudo su - Oba
