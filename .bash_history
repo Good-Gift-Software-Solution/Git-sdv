@@ -894,3 +894,36 @@ sudo su - Oba
 git status
 git commit -a -m "b/h4"
 git remote
+git status
+git diff
+git merge
+git commit -a -m "history updated"
+git status
+git diff
+git remote -v 
+git push b/h3 master
+clear
+git remote
+clear
+git remote -v
+git fetch b/h3 master
+git status
+git add .&& git commit -m "modified" 
+git status
+git log
+git show 67a389a3512
+git diff
+git branch
+git remote
+clear
+git remote add fresh .github/auto-assign.yml
+git status
+git fetch fresh master
+git push fresh master
+git clone fresh master
+remote -v
+git remote -v
+clear
+git remote -v
+git status
+git log
