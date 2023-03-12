@@ -959,3 +959,36 @@ git commit -a -m "history M"
 git remote -v
 git status
 sudo su - Oba
+clear
+ls
+clear
+git status
+git commit -a -m "history now"
+git remote -v
+git log 
+clear
+git status
+clean
+clear
+sudo su - Oba
+clear
+ls
+git status
+git remote -v
+rclear
+clear
+ mkdir may2022
+     mkdir may2022/payslips 
+     mkdir may2022/invoices 
+     touch may2022/payslips/ope.pay  
+     touch may2022/payslips/Landmark.pay 
+     vi may2022/invoices/sales.txt  
+     vi may2022/invoices/purchases.txt 
+ls /home
+sudo chown goodgift Chioma 
+sudo chown Chioma goodgift
+userdel -f Chioma
+clear
+su - Fiyin
+pwd 
+ls /home
