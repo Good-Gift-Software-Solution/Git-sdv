@@ -1,40 +1,3 @@
-cat passwd
-clear
-cat passwd-  
-cat passwd  
-clear
-cat -n passwd
-cat -n passwd-
-clear
-ls
-pwd
-clear
-pwd
-cd
-/
- /
-ll
-ls
-ll /
-vi useradd.sh
-ll
-mkdir newuser 
-cd newuser
-pwd
-mv useradd.sh newuser
-clear
-pwd
-ll
-cd
-ll
-cat newuser
-cd newuser
-cat useradd.sh
-sh useradd.sh
-cat useradd
-cat useradd.sh
-cd
-sh useradd.sh
 cat useradd.sh
 clear
 ll
@@ -998,3 +961,40 @@ git status
 git diff
 ls /home
 su - Fiyin
+clear
+ls /home
+git status
+git commit -a -m "b/h nu"
+git status
+git branch 
+git config --global --list
+git branch 
+git log
+clear
+git remote -v
+git clone b/h3 https://github.com/Good-Gift-Software-Solution/demo-repository.git
+git remote add aasf https://github.com/Good-Gift-Software-Solution/demo-repository.git
+git fetch aasf master
+git config --global --list
+git branch 
+git fetch aasf master
+git remote -v 
+git fetch visa-rep master
+git status
+git clone visa-rep master
+su - Fiyin 
+git status
+git branch
+git log
+clear
+ls /home
+tail /etc/passwd 
+vi /etc/passwd 
+sudo su - chioma
+sudo su - Chioma
+ls /home
+sudo su - Jola
+tail /etc/shadow 
+sudo tail /etc/shadow 
+sudo passwd Jola 
+su - Jola
