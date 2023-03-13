@@ -1,31 +1,3 @@
-ls
-etc
-sudo etc/
-ls 
-touch
-cd
-cat
-pwd
-config
-conf
-tmp
-exit
-ll /home
-sudo su - Fiyin
-etc/passwd
-cd /etc/passwd
-cd etc/passwd
-ll /
-cd /etc
-ls
-cd passwd   
-cat passwd   
-pwd
-cat passwd-  
-clear
-cd /passwd-  
-cd passwd-  
-cat passwd-  
 cat passwd
 clear
 cat passwd-  
@@ -992,3 +964,37 @@ clear
 su - Fiyin
 pwd 
 ls /home
+ls
+cd may2022
+ls
+cd invoices 
+ls
+ll
+cd ..
+cd payslips
+ls
+cd landmark.pay
+cat landmark.pay
+ope.pay
+cd ope.pay
+cat ope.pay
+cd
+ls 
+ll
+cd may2022
+ls 
+cd payslips
+ls
+ll
+cd ope.pay
+vi ope.pay
+clear
+ll
+cd
+git status
+git add .
+git commit -a -m "testing"
+git status
+git diff
+ls /home
+su - Fiyin
