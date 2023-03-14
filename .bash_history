@@ -1,37 +1,3 @@
-cat useradd.sh
-clear
-ll
-ll /home
-ll /
-cd
-exit
-ll /home
-ll /user
-user
-ll user
-ls user
- /var
-ll /var
-ll var
-clear
-ll etc
-ll /etc
-ls /etc
-ls /var
-clear
-ll /var
-cd var
-cd /var
-ls
-ll 
-cd adm
-ll
-pwd
-ll /adm
-clear
-pwd
-cd
-ll /proc
 ls /proc
 clear
 ls /proc
@@ -998,3 +964,37 @@ tail /etc/shadow
 sudo tail /etc/shadow 
 sudo passwd Jola 
 su - Jola
+clear
+git status
+git commit -a -m "R update"
+git log
+git branch
+git remote -v
+git clean mster
+git clean -f master
+git log
+clear
+git remote -v 
+git diff master
+git status
+git branch 
+git log 
+git show c7610c37f93
+git diff
+git diff master
+git merge
+git status
+git remote
+git remote -v
+git push b/h3 master
+git config --global --list
+git fetch b/h3 master
+git branch
+git fetch fresh master
+clear
+su - Fiyin
+git remote -v
+git branch 
+sudo su - Jola
+sudo su - Oba 
+su - Fiyin 
